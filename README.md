@@ -100,7 +100,7 @@ This project helped in understanding:
 
 ## Author
 
-Talha Ahmed
+Muhammad Talha
 
 ## License
 
